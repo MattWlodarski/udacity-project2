@@ -25,7 +25,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
   // QUERY PARAMATERS
   //    image_url: URL of a publicly accessible image
   // RETURNS
-  //   the filtered image file [!!TIP res.sendFile(filteredpath); might be useful]
+  //   the filtered img file [!!TIP res.sendFile(filteredpath); might be useful]
 
   /**************************************************************************** */
 
