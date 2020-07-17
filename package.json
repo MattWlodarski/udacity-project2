@@ -30,6 +30,6 @@
   "dependencies": {
     "express": "^4.17.0",
     "jimp": "^0.6.4",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.19"
   }
 }
